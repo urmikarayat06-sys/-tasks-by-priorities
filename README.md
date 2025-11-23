@@ -34,6 +34,7 @@ This project is distributed for educational and personal use. Modify and share f
 ### Author
 
 Created by [Name- Urmi Karayat REGISTRATION NUMBER- 25BOE10037].
-For feedback or suggestions, open an issue or contact directly.
+
+
 
 
