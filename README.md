@@ -17,3 +17,23 @@ A Python-based command-line Task Manager application that helps users organize, 
 ## How to Use
 1. Download or clone the repository.
 2. Ensure you have Python 3 installed on your computer
+   
+---
+### Customization
+
+- You can freely modify priorities, change color codes, or customize task fields by editing `task_manage.py`.
+
+---
+
+### License
+
+This project is distributed for educational and personal use. Modify and share freely.
+
+---
+
+### Author
+
+Created by [Name- Urmi Karayat REGISTRATION NUMBER- 25BOE10037].
+For feedback or suggestions, open an issue or contact directly.
+
+
